@@ -13,9 +13,12 @@ Machine learning (ML) is a field of inquiry devoted to understanding and buildin
 
 This course assignments introduces methods for key aspects of ML:
 
-* Regression
-* Clustering
-* Sentiment Analysis
+* Supervised Learning
+  * Regression
+  * Classification
+* Unsupervised Learning
+  * Clustering
+  * Sentiment Analysis
 
 
 [1] [What is ML?](https://en.wikipedia.org/wiki/Machine_learning)
