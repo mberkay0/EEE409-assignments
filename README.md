@@ -1,2 +1,2 @@
-# EEE409-assignments
-Introduction to Machine Learning
+# EEE409 Assignments
+## Introduction to Machine Learning
