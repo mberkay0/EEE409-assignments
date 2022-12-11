@@ -23,4 +23,6 @@ This course assignments introduces methods for key aspects of ML:
 
 [1] [What is ML?](https://en.wikipedia.org/wiki/Machine_learning)
 
+[2] [Full course content](https://www.coursera.org/specializations/machine-learning)
+
 
